@@ -1,3 +1,4 @@
+[View the Live Project here](https://lizac9.github.io/UCD-resume/)
 
 ## Gitpod Reminders
 
